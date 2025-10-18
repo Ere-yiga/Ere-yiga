@@ -1,5 +1,5 @@
 # Hi..I am Ereyiga.
-I’m a growing mobile app developer currently learning Dart and Flutter. My goal is to become a full-stack developer using Flutter and Serverpod to build seamless, scalable applications.<br><br>Previously, I worked with HTML, CSS, JavaScript, Python, and MySQL and I’m now transitioning fully into mobile app development.
+I’ve worked with HTML, CSS, JavaScript, Python, and MySQL and currently, I am transitioning into mobile app development. My goal is to become a <b> full-stack developer using Flutter and Serverpod to build seamless, scalable applications.<b>.
 
 
 ## 🌐 Socials:

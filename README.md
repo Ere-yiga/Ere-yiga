@@ -1,5 +1,5 @@
 # Hi...I am Ereyiga.
-I’ve worked with HTML, CSS, JavaScript, Python, and MySQL and currently, I am transitioning into mobile app development. My goal is to become a <b> full-stack developer using Flutter and Serverpod to build seamless, scalable applications.<b>.
+I’ve worked with HTML, CSS, JavaScript, Python, and MySQL and currently, I am into mobile app development. <b>My goal is to build applications that are seamless and scalable<b>.
 
 
 ## 🌐 Socials:

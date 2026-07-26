@@ -1,5 +1,5 @@
 # 💫 About Me:
-Who I Am<br><br>Hi, I'm Ereyiga. Welcome to my GitHub profile!<br>I'm a mobile app developer with a background in web technologies. I'm highly passionate about building user-friendly and visually appealing mobile applications. Once again, welcome to my Github profile.
+Who I Am<br><br>Hi, I'm Ereyiga. Welcome to my GitHub profile!<br>I'm a mobile app developer with a background in web technologies. I'm highly passionate about building user-friendly and visually appealing mobile applications. 
 
 
 ## 🌐 Socials:
